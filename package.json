@@ -1,0 +1,21 @@
+{
+  "name": "monokai-rain",
+  "displayName": "Monokai Rain",
+  "description": "A modified Monokai theme for personal use with neutral gray backgrounds with water highlights & Monokai extended syntax highlighting. It's made to avoid the need for both light and dark mode hence the use of neutral grey.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.82.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Monokai Rain",
+        "uiTheme": "vs-dark",
+        "path": "./themes/monokai-rain.json"
+      }
+    ]
+  }
+}
