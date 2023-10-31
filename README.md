@@ -50,8 +50,8 @@
 
 ## Editor Settings in Preview Screenshot
 
-Font: [JetBrains Mono](https://www.jetbrains.com/lp/mono/) with ligatures
-Icons: [VSCode Icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
+1. Font: [JetBrains Mono](https://www.jetbrains.com/lp/mono/) with ligatures
+2. Icons: [VSCode Icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
 
 VSCode Editor settings:
 ```json
