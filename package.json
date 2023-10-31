@@ -1,14 +1,46 @@
 {
   "name": "monokai-rain",
   "displayName": "Monokai Rain",
-  "description": "A modified Monokai theme for personal use with neutral gray backgrounds with water highlights & Monokai extended syntax highlighting. It's made to avoid the need for both light and dark mode hence the use of neutral grey.",
+  "description": "A Monokai rain theme with neutral gray backgrounds, water highlights & Monokai extended syntax highlighting.",
   "version": "0.0.1",
+  "publisher": "mimo",
   "engines": {
     "vscode": "^1.82.0"
   },
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "monokai",
+    "dark",
+    "light",
+    "neutral",
+    "theme",
+    "color-theme",
+    "rain",
+    "extended",
+    "monokai extended",
+    "monokai textmate"
+  ],
+  "icon": "images/logo.png",
+  "galleryBanner": {
+    "color": "#B7ECFF",
+    "theme": "dark"
+  },
+  "sponsor": {
+    "url": "https://github.com/sponsors/michellemounde"
+  },
+  "pricing": "Free",
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "homepage": "https://github.com/michellemounde/monokai-rain/blob/main/README.md",
+  "bugs": {
+    "url": "https://github.com/michellemounde/monokai-rain/issues",
+    "email": "michellemounde@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/michellemounde/monokai-rain.git"
+  },
   "contributes": {
     "themes": [
       {
