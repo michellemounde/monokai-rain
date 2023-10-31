@@ -6,18 +6,6 @@
 </p>
 
 <p align="center">
-    <a title="Visual Studio Marketplace Version" href="https://marketplace.visualstudio.com/items?itemName=mimo.monokai-rain">
-        <img src="https://img.shields.io/visual-studio-marketplace/v/mimo.monokai-rain?style=for-the-badge&labelColor=11131c&color=8BE9FD">
-    </a>
-    <a title="Visual Studio Marketplace Installs" href="https://marketplace.visualstudio.com/items?itemName=mimo.monokai-rain">
-        <img src="https://img.shields.io/visual-studio-marketplace/i/mimo.monokai-rain?style=for-the-badge&labelColor=11131c&color=8BE9FD">
-    </a>
-    <a title="Visual Studio Marketplace Downloads" href="https://marketplace.visualstudio.com/items?itemName=mimo.monokai-rain">
-        <img src="https://img.shields.io/visual-studio-marketplace/d/mimo.monokai-rain?style=for-the-badge&labelColor=11131c&color=8BE9FD">
-    </a>
-</p>
-
-<p align="center">
     <a title="Preview Theme in vscode.dev" href="https://vscode.dev/theme/mimo.monokai-rain">
         <img src="https://img.shields.io/badge/preview_in_vscode.dev-blue?style=for-the-badge&logo=visualstudiocode&color=50FA7B&logoColor=000000">
     </a>
@@ -28,7 +16,7 @@
 ## Inspiration
 
 1. [Monokai Classic]() syntax highlighting + [Monokai extended]() syntax highlighting
-2. [Sweet Dracula Monokai](https://marketplace.visualstudio.com/items?itemName=mimo.monokai-rain) extended italics
+2. [Sweet Dracula Monokai](https://marketplace.visualstudio.com/items?itemName=lefd.sweetdracula-monokai) extended italics
 3. [Rainglow](https://marketplace.visualstudio.com/items?itemName=daylerees.rainglow) Userscapebackground and foreground colors
 4. [Vidar](https://marketplace.visualstudio.com/items?itemName=Vidar.24x7dev-design) highlight colors
 5. [Firefly Pro](https://marketplace.visualstudio.com/items?itemName=ankitcode.firefly) Midnight highlight scheme
