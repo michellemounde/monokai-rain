@@ -7,9 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.2.1] - 2023-11-01
+## [0.2.2] - 2023-11-01
 
 - Update status bar background in Monokai Storm to match Monokai Rain
+
+## [0.2.1] - 2023-11-01
+
 - Use Sweet Dracula Monokai syntax highlighting
 
 ## [0.2.0] - 2023-11-01
@@ -21,7 +24,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [0.1.0] - 2023-11-01
 
 - Versioning error
-
 
 ## [0.0.2] - 2023-10-31
 
