@@ -1,6 +1,6 @@
 {
   "name": "monokai-rain",
-  "displayName": "Monokai Rain",
+  "displayName": "Monokai RainStorm",
   "description": "A Monokai rain theme with neutral gray backgrounds, water highlights & Monokai extended syntax highlighting.",
   "version": "0.0.2",
   "publisher": "mimo",
@@ -12,15 +12,16 @@
   ],
   "keywords": [
     "monokai",
-    "dark",
+    "monokai extended",
+    "monokai textmate",
     "light",
+    "dark",
     "neutral",
     "theme",
     "color-theme",
     "rain",
-    "extended",
-    "monokai extended",
-    "monokai textmate"
+    "storm",
+    "extended"
   ],
   "icon": "images/logo.png",
   "galleryBanner": {
@@ -45,8 +46,13 @@
     "themes": [
       {
         "label": "Monokai Rain",
-        "uiTheme": "vs-dark",
+        "uiTheme": "vs",
         "path": "./themes/monokai-rain.json"
+      },
+      {
+        "label": "Monokai Storm",
+        "uiTheme": "vs-dark",
+        "path": "./themes/monokai-storm.json"
       }
     ]
   }

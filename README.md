@@ -1,8 +1,9 @@
-<h1 align="center">Monokai Rain</h1>
+<h1 align="center">Monokai RainStorm</h1>
 
 <p align="center">
     A modified Monokai theme with neutral gray backgrounds with water highlights &
-    <a href="https://github.com/spyker77/monokai-theme-extended">Monokai Extended</a> syntax highlighting. It's made to avoid the need for both light and dark mode hence the use of neutral grey.
+    <a href="https://github.com/spyker77/monokai-theme-extended">Monokai Extended</a> syntax highlighting.
+    Includes a light and dark mode.
 </p>
 
 <p align="center">
@@ -11,25 +12,29 @@
     </a>
 </p>
 
-![VS Code](images/preview.png)
+<h2>Light Mode</h2>
+![VS Code](images/preview-light.png)
+
+<h2>Dark Mode</h2>
+![VS Code](images/preview-dark.png)
 
 ## Inspiration
 
-1. [Monokai Classic]() syntax highlighting + [Monokai extended]() syntax highlighting
-2. [Sweet Dracula Monokai](https://marketplace.visualstudio.com/items?itemName=lefd.sweetdracula-monokai) extended italics
-3. [Rainglow](https://marketplace.visualstudio.com/items?itemName=daylerees.rainglow) Userscapebackground and foreground colors
+1. Monokai Classic (pre-installed) syntax highlighting + [Monokai extended](https://github.com/spyker77/monokai-theme-extended) syntax highlighting
+2. [Sweet Dracula Monokai](https://marketplace.visualstudio.com/items?itemName=lefd.sweetdracula-monokai) extended italics + syntax highlighting
+3. [Rainglow](https://marketplace.visualstudio.com/items?itemName=daylerees.rainglow) Userscape & Box UK background and foreground colors
 4. [Vidar](https://marketplace.visualstudio.com/items?itemName=Vidar.24x7dev-design) highlight colors
 5. [Firefly Pro](https://marketplace.visualstudio.com/items?itemName=ankitcode.firefly) Midnight highlight scheme
 6. [Bearded Theme](https://marketplace.visualstudio.com/items?itemName=BeardedBear.beardedtheme) Vivid Black terminal ansi colours
 
-## Rainglow Themes Considered(Descending)
+## Rainglow Themes Considered (Descending)
 
-1. Userscape(Chosen)
-2. Hub
-3. Rainbow
-4. Pleasure
-5. Joker
-6. Box UK
+1. Userscape (Chosen - Light)
+2. Box UK (Chosen - Dark)
+3. Hub
+4. Rainbow
+5. Pleasure
+6. Joker
 7. Tame
 8. Slime
 9. Isotope
@@ -45,7 +50,9 @@
 ### Method 2
 1. In VS Code, open the Extensions view (Ctrl + Shift + X for Windows & Linux) or (⇧ ⌘ X for Mac)
 2. In the search box, search for "Monokai Rain"
-3. Click "Install" and choose "Monokai Rain" from the Command Palette
+3. Click "Install" and from the Command Palette choose:
+     1. "Monokai Rain" - for light mode
+     2. "Monokai Storm" - for dark mode
 
 
 ## Editor Settings in Preview Screenshot
