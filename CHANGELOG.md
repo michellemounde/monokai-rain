@@ -7,6 +7,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.1.0] - 2023-11-01
+
+- Update syntaax highlighting to be more extensive
+- Add dark mode
+- Change name from Monokai Rain to Monokai RainStorm
+
+
 ## [0.0.2] - 2023-10-31
 
 - Update marketplace banner color
