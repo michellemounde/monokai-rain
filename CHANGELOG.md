@@ -7,7 +7,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.1.0] - 2023-11-01
+## [0.2.1] - 2023-11-01
+
+- Use Sweet Dracula Monokai syntax highlighting
+
+## [0.2.0] - 2023-11-01
 
 - Update syntaax highlighting to be more extensive
 - Add dark mode

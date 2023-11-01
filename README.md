@@ -2,7 +2,7 @@
 
 <p align="center">
     A modified Monokai theme with neutral gray backgrounds with water highlights &
-    <a href="https://github.com/spyker77/monokai-theme-extended">Monokai Extended</a> syntax highlighting.
+    <a href="https://marketplace.visualstudio.com/items?itemName=lefd.sweetdracula-monokai">Sweet Dracula Monokai</a> syntax highlighting.
     Includes a light and dark mode.
 </p>
 
@@ -12,16 +12,15 @@
     </a>
 </p>
 
-<h2>Light Mode</h2>
+<h2 align="center">Light Mode</h2>
 ![VS Code](images/preview-light.png)
 
-<h2>Dark Mode</h2>
+<h2 align="center">Dark Mode</h2>
 ![VS Code](images/preview-dark.png)
 
 ## Inspiration
 
-1. Monokai Classic (pre-installed) syntax highlighting + [Monokai extended](https://github.com/spyker77/monokai-theme-extended) syntax highlighting
-2. [Sweet Dracula Monokai](https://marketplace.visualstudio.com/items?itemName=lefd.sweetdracula-monokai) extended italics + syntax highlighting
+1. [Sweet Dracula Monokai](https://marketplace.visualstudio.com/items?itemName=lefd.sweetdracula-monokai) syntax highlighting
 3. [Rainglow](https://marketplace.visualstudio.com/items?itemName=daylerees.rainglow) Userscape & Box UK background and foreground colors
 4. [Vidar](https://marketplace.visualstudio.com/items?itemName=Vidar.24x7dev-design) highlight colors
 5. [Firefly Pro](https://marketplace.visualstudio.com/items?itemName=ankitcode.firefly) Midnight highlight scheme
