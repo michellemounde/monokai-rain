@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-    <a title="Preview Theme in vscode.dev" href="https://vscode.dev/theme/mimo.monokai-rain">
-        <img src="https://img.shields.io/badge/preview_in_vscode.dev-blue?style=for-the-badge&logo=visualstudiocode&color=50FA7B&logoColor=000000">
+    <a title="Preview" href="https://vscode.dev/theme/mimo.monokai-rain">
+        <img src="https://img.shields.io/badge/preview-grey?style=for-the-badge&logo=visualstudiocode&color=A6E22E&logoColor=000000">
     </a>
 </p>
 
@@ -75,3 +75,6 @@ VSCode Editor settings:
 
 ## Feedback
 Feature requests, ideas or bug reports are always welcome. Feel free to send me feedback by [opening an issue on Github](https://github.com/michellemounde/monokai-rain/issues/new). All types of feedback are appreciated.
+
+## Acknowledgements
+1. Logo designed on [LogoMakr](https://logomakr.com/)
