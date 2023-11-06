@@ -13,10 +13,10 @@
 </p>
 
 <h2 align="center">Light Mode</h2>
-![VS Code](images/preview-light.png)
+![Preview of light theme](https://github.com/michellemounde/monokai-rainstorm/blob/main/images/preview-light.png "Light theme preview")
 
 <h2 align="center">Dark Mode</h2>
-![VS Code](images/preview-dark.png)
+![Preview of dark theme](https://github.com/michellemounde/monokai-rainstorm/blob/main/images/preview-dark.png "Dark theme preview")
 
 ## Inspiration
 
