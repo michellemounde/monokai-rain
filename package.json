@@ -33,14 +33,14 @@
   },
   "pricing": "Free",
   "license": "SEE LICENSE IN LICENSE.txt",
-  "homepage": "https://github.com/michellemounde/monokai-rain/blob/main/README.md",
+  "homepage": "https://github.com/michellemounde/monokai-rainstorm/blob/main/README.md",
   "bugs": {
-    "url": "https://github.com/michellemounde/monokai-rain/issues",
+    "url": "https://github.com/michellemounde/monokai-rainstorm/issues",
     "email": "michellemounde@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/michellemounde/monokai-rain.git"
+    "url": "https://github.com/michellemounde/monokai-rainstorm.git"
   },
   "contributes": {
     "themes": [
