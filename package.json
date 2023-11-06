@@ -1,7 +1,7 @@
 {
   "name": "monokai-rain",
   "displayName": "Monokai RainStorm",
-  "description": "A Monokai rain theme with neutral gray backgrounds, water highlights & Monokai extended syntax highlighting.",
+  "description": "A theme with neutral gray backgrounds, water highlights & Sweet Dracula Monokai syntax highlighting.",
   "version": "0.2.4",
   "publisher": "mimo",
   "engines": {
@@ -21,7 +21,8 @@
     "color-theme",
     "rain",
     "storm",
-    "extended"
+    "extended",
+    "rainstorm"
   ],
   "icon": "images/monokai-rainstorm-logo.png",
   "galleryBanner": {

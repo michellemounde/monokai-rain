@@ -1,7 +1,7 @@
 <h1 align="center">Monokai RainStorm</h1>
 
 <p align="center">
-    A modified Monokai theme with neutral gray backgrounds with water highlights &
+    A theme with neutral gray backgrounds with water highlights &
     <a href="https://marketplace.visualstudio.com/items?itemName=lefd.sweetdracula-monokai">Sweet Dracula Monokai</a> syntax highlighting.
     Includes a light and dark mode.
 </p>
