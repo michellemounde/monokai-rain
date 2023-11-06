@@ -24,7 +24,7 @@
     "extended",
     "rainstorm"
   ],
-  "icon": "images/monokai-rainstorm-logo.png",
+  "icon": "assets/images/monokai-rainstorm-logo.png",
   "galleryBanner": {
     "color": "#576F77",
     "theme": "dark"
