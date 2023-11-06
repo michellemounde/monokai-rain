@@ -13,9 +13,11 @@
 </p>
 
 <h2 align="center">Light Mode</h2>
+
 ![Preview of light theme](assets/images/preview-light.png "Light theme preview")
 
 <h2 align="center">Dark Mode</h2>
+
 ![Preview of dark theme](assets/images/preview-dark.png "Dark theme preview")
 
 ## Inspiration
