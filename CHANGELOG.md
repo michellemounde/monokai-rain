@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.2.7] - 2023-11-15
+
 - Update ansiBlue and ansiGreen colors to make them less dark and make ansiBrightGreen brighter
 
 ## [0.2.6] - 2023-11-15
