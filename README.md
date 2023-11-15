@@ -80,3 +80,4 @@ Feature requests, ideas or bug reports are always welcome. Feel free to send me 
 
 ## Acknowledgements
 1. Logo designed on [LogoMakr](https://logomakr.com/)
+2. Terminal ansi colors testing with [ANSI Colors](https://marketplace.visualstudio.com/items?itemName=iliazeus.vscode-ansi)
