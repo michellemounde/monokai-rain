@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+-
+
+## [0.2.6] - 2023-11-15
+
+- Update terminal ansi colors for enhanced distinction between bright & non-bright colors
+
 ## [0.2.5] - 2023-11-06
 
 - Update description
