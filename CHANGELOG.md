@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.0] - 2024-08-05
+
+- Add light blue, dark blue and darkest mode & Move all themes to list as dark mode themes
+
 ## [0.2.7] - 2023-11-15
 
 - Update ansiBlue and ansiGreen colors to make them less dark and make ansiBrightGreen brighter
