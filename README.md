@@ -12,13 +12,25 @@
     </a>
 </p>
 
-<h2 align="center">Light Mode</h2>
+<h2 align="center">Light Dark Mode</h2>
 
-![Preview of light theme](assets/images/preview-light.png "Light theme preview")
+![Preview of light dark theme](assets/images/preview-light-dark.png "Light dark theme preview")
 
 <h2 align="center">Dark Mode</h2>
 
 ![Preview of dark theme](assets/images/preview-dark.png "Dark theme preview")
+
+<h2 align="center">Darkest Mode</h2>
+
+![Preview of darkest theme](assets/images/preview-darkest.png "Darkest theme preview")
+
+<h2 align="center">Light Dark Blue Mode</h2>
+
+![Preview of light dark blue theme](assets/images/preview-light-dark-blue.png "Light dark blue theme preview")
+
+<h2 align="center">Dark Blue Mode</h2>
+
+![Preview of dark blue theme](assets/images/preview-dark-blue.png "Dark blue theme preview")
 
 ## Inspiration
 
@@ -52,8 +64,11 @@
 1. In VS Code, open the Extensions view (Ctrl + Shift + X for Windows & Linux) or (⇧ ⌘ X for Mac)
 2. In the search box, search for "Monokai Rain"
 3. Click "Install" and from the Command Palette choose:
-     1. "Monokai Rain" - for light mode
-     2. "Monokai Storm" - for dark mode
+    1. "Monokai Rain" - for light dark mode
+    2. "Monokai Storm" - for dark mode
+    3. "Monokai Tornado" - for darkest mode
+    4. "Monokai Drizzle" - for light dark blue mode
+    5. "Monokai Sleet" - for dark blue mode
 
 
 ## Editor Settings in Preview Screenshot

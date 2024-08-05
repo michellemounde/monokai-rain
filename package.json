@@ -1,7 +1,7 @@
 {
   "name": "monokai-rain",
   "displayName": "Monokai RainStorm",
-  "description": "A theme with neutral gray backgrounds, water highlights & Sweet Dracula Monokai syntax highlighting.",
+  "description": "A theme with neutral gray backgrounds, grey and blue colors, water highlights & Sweet Dracula Monokai syntax highlighting",
   "version": "0.2.7",
   "publisher": "mimo",
   "engines": {
@@ -14,15 +14,37 @@
     "monokai",
     "monokai extended",
     "monokai textmate",
-    "light",
-    "dark",
+    "monokai blue",
+    "monokai grey",
+    "monokai gray",
+    "monokai black",
+    "monokai drizzle",
+    "monokai rain",
+    "monokai storm",
+    "monokai tornado",
+    "monokai sleet",
     "neutral",
     "theme",
     "color-theme",
+    "extended",
+    "light dark",
+    "dark",
+    "darkest",
+    "grey",
+    "gray",
+    "blue",
+    "light dark blue",
+    "dark blue",
+    "black",
+    "drizzle",
     "rain",
     "storm",
-    "extended",
-    "rainstorm"
+    "rainstorm",
+    "tornado",
+    "ocean",
+    "deep",
+    "deep ocean",
+    "sleet"
   ],
   "icon": "assets/images/monokai-rainstorm-logo.png",
   "galleryBanner": {
@@ -46,14 +68,29 @@
   "contributes": {
     "themes": [
       {
+        "label": "Monokai Drizzle",
+        "uiTheme": "vs-dark",
+        "path": "./themes/monokai-drizzle.json"
+      },
+      {
         "label": "Monokai Rain",
-        "uiTheme": "vs",
+        "uiTheme": "vs-dark",
         "path": "./themes/monokai-rain.json"
       },
       {
         "label": "Monokai Storm",
         "uiTheme": "vs-dark",
         "path": "./themes/monokai-storm.json"
+      },
+      {
+        "label": "Monokai Tornado",
+        "uiTheme": "vs-dark",
+        "path": "./themes/monokai-tornado.json"
+      },
+      {
+        "label": "Monokai Sleet",
+        "uiTheme": "vs-dark",
+        "path": "./themes/monokai-sleet.json"
       }
     ]
   }
